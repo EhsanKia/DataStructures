@@ -10,7 +10,7 @@ class Tree:
 
 
 #alphabet =  "zqxjkvbpygfwmucldrhsnioate"
-alphabet =  "jqxzwkvfybhgmpudlotnraise"
+alphabet =  "jqxzwkvfybhgmpudclotnraise"
 #alphabet =  "qjxzwkvfybhgmpudclrtanoise"
 #alphabet = "abcdefghijklmnopqrstuvwxyz"
 
